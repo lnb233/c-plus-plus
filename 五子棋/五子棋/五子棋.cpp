@@ -63,7 +63,7 @@ void red()  //红方落子
 		red();
 	}
 	else
-		p[m][n] = 2; //红方用2来表示.。。。
+		p[m][n] = 2; //红方用2来表示
 	system("cls");
 	display();
 }
